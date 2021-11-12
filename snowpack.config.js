@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: ' https://daversogt.github.io/avocadosStoreTailwindCSS/public/index.html',
+    baseUrl: ' https://daversogt.github.io/avocadosStoreTailwindCSS',
   },
 }
