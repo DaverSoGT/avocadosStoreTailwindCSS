@@ -1,5 +1,5 @@
 {
-  "homepage": " https://daversogt.github.io/avocadosStoreTailwindCSS",
+  "homepage": "https://daversogt.github.io/avocadosStoreTailwindCSS/public/index.html",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
